@@ -126,14 +126,6 @@ Your navbar must have the following data attributes that match your Framer compo
 - `[data-framer-name="Nav Items"]` - Navigation items container
 - `[data-framer-name="Side padding (Color)"]` - Side padding elements (left and right)
 
-### Optional Elements
-
-- `[data-framer-name="CTA Container"]` - CTA button container
-- `[data-framer-name="Logo"]` - Logo container
-- `[data-framer-name="Nav Menu"]` - Individual navigation menu items
-- `[data-framer-name="Primary Button"]` - Primary button in CTA container
-- `[data-framer-name="Hamburger"]` - Hamburger menu icon
-
 ## ⚙️ Configuration Options
 
 | Option | Type | Default | Description |
